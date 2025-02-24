@@ -62,7 +62,7 @@ Customer-Agent-Analysis/
 ## ⚙️ Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/Customer-Agent-Analysis.git
+git clone git clone https://github.com/adyajha15/ConvoLens.git
 cd Customer-Agent-Analysis
 
 # Install dependencies
